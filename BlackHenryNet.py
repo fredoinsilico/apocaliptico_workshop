@@ -2,7 +2,7 @@
 
 import pandas as pd
 
-archivo_nativo = pd.read_csv(r"./human_genes.csv", delimiter=',')  # Apertura de la data de genes humanos
+archivo_nativo = pd.read_csv(r"./human_genes.csv", delimiter=';')  # Apertura de la data de genes humanos
 
 
 archivo_nativo['mutante'] = archivo_nativo['WILD'].astype(str) + 'ATGATTAGGTGATAGAGTAAT' # Insercion de Secuencia en una nueva columna 'mutante'
