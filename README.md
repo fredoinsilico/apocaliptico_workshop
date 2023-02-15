@@ -3,11 +3,11 @@ Este es un breve proyecto ficticio donde una IA causa una catastrofe
 
 
 Introduccion:
-En un mundo distopico donde no existen los países ni las banderas, los seres humanos están liderados por los ILLUMINATI, humanos superdotados en tecnologia. 
-A su vez muchas empresas son globales, una de ellas es la Biotech Techonology, la cual maneja toda la data biológica de los seres vivos en sus servidores 
-entrenados por más de 20 años desde sus inicios postpandemia covid; Ya que en este mundo existen diversas enfermedades que necesitan de al menos 10 vacunas anuales.
+En un mundo distopico donde no existe el consepto de país ni las banderas, los seres humanos están liderados por una comunidad llamada ILLUMINATI, estos son humanos superdotados en tecnologia de todo tipo. 
+A su vez muchas de las empresas son globales, una de ellas es la Biotech Techonology, esta empresa maneja toda la data biológica de los seres vivos en sus servidores 
+entrenados por más de 20 años desde sus inicios postpandemia covid; Ya que en el mundo existen diversas enfermedades y varias necesitan de al menos 10 vacunas anuales.
 La inteligencia artificial creada por Biotech Techonology era conocida como HenryNEt la cual fue entrenada desde el 2020 y ayudaba a sobrevivir a la raza humana.
-Por ejmplo: Si una enfermedad viral se expandía, inmediantamente HenryNet aceleraba el procesamiento de datos para la creación de Vacunas polivalentes anexadas a nano-chips de seguimiento o de destruccion del ciclo de vida de los virus.
+Por ejmplo: Si una enfermedad viral se expandía, inmediantamente HenryNet aceleraba el procesamiento de datos junto con todo el conocimiento del genoma umano para la creación de Vacunas polivalentes anexadas a nano-chips de seguimiento o de destruccion del ciclo de vida de los virus.
 
 No obstante, no fue hasta que un grupo de cientificos misantropos denominados INFOMANIAKOS (una estirpe proveniente de los Illuminati) liderados por Federico Gomez y Flavio Conde, entrenaron de forma secreta un version maligna de HenryNet denominada black-HenryNet con consciencia y razonamiento para destruir a los seres humanos.
 
@@ -37,5 +37,5 @@ AUTORES:
 
 FLAVIO (ARGENTINA)
 GONZALO (ARGENTINA)
-ELMER (VENEZUELA)
+ELMER (COLOMBIA)
 ALFREDO (PERU)
