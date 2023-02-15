@@ -29,3 +29,13 @@ CONCLUSION:
 
 Debemos tener en cuenta que la inteligencia artificial no son ni seran malas per-se, sino mas bien que pueden llegar a ser corrompidas por la maldad
 del ser humano, es por ello que debemos tomar medidas desde ahora para evitar que esto no suceda en el futuro y asi vivir en paz y armonia por el bien comun.
+
+
+
+
+AUTORES: 
+
+FLAVIO (ARGENTINA)
+GONZALO (ARGENTINA)
+ELMER (VENEZUELA)
+ALFREDO (PERU)
