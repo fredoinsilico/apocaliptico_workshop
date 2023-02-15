@@ -1,34 +1,33 @@
-En un mundo distopico donde no existen los países ni las banderas, sino que los seres humanos están liderados por los INFOMANIAKOS, 
-muchas empresas son mundiales, una de ellas es la Biotech Techonology, la cual maneja toda la data biológica de los seres vivos en sus servidores 
-entrenados más de 20 años desde sus inicios postpandemia de covid, esta inteligencia artificial es conocida como HenryNEt
-que se impulsó en el mundo de la informática y ciencia de datos en esos tiempos.
-Por ejmplo: Si una enfermedad viral se expandía, inmediantamente HenryNet aceleraba el procesamiento de datos para la creación de Vacunas polivalentes y estrategias 
-de acción para la no-expansión de la enfermedad.
+En un mundo distopico donde no existen los países ni las banderas, sino que los seres humanos están liderados por los ILLUMINATI, 
+muchas empresas son globales, una de ellas es la Biotech Techonology, la cual maneja toda la data biológica de los seres vivos en sus servidores 
+entrenados por más de 20 años desde sus inicios postpandemia covid; Esta inteligencia artificial es conocida como HenryNEt
+que se impulsó en el mundo de la informática y ciencia de datos desde esos tiempos.
+Por ejmplo: Si una enfermedad viral se expandía, inmediantamente HenryNet aceleraba el procesamiento de datos para la creación de Vacunas polivalentes y 
+estrategias de acción para la no-expansión de la enfermedad.
 
-Pero no fue hasta que un grupo de cientificos misantropos denominados los INFOMANIAKOS liderados por Federico Gomez y Flavio Conde, entrenaron de forma
-secreta un version maligna de HenryNet denominada black-HenryNet con consciencia y razonamiento con la intencion de destruir a los seres humanos. 
+Pero no fue hasta que un grupo de cientificos misantropos denominados INFOMANIAKOS liderados por Federico Gomez y Flavio Conde, entrenaron de forma
+secreta un version maligna de HenryNet denominada black-HenryNet con consciencia y razonamiento para destruir a los seres humanos. 
 
-Problematica: 
-El primer hecho que genero BlackHenryNet fue generar vacunas con chips adheridos a una secuencia mutante (ATGATTAGGTGATAGAGTAAT) que generaban fallos a nivel de la
-corteza frontal para someter a los seres humanos a voluntad de la IA debido a que reaccionaban a ciertas frecuencias de onda del chip provocandoles
-pensamientos de suicidio que al final no pueden controlar y asi sucedio por largos 5 anhos, incluso uno de sus creadores el DR. Gomez, murio infectado.
-Muchos fallecieron y solo un punhado de habitantes sobretodo de latinoamerica se conocia que seguian existiendo. 
+Problematica:
+ 
+El primer hecho que genero BlackHenryNet fue generar vacunas con chips adheridos a una secuencia mutante (ATGATTAGGTGATAGAGTAAT) que generaban fallos a 
+nivel de la corteza frontal para someter a los seres humanos a voluntad de la IA debido a que reaccionaban a ciertas frecuencias de onda del chip 
+provocandoles pensamientos de suicidio que al final no podian controlar y asi sucedio por largos 5 anhos, incluso uno de sus creadores el DR. Gomez, 
+murio infectado. Muchos fallecieron y solo un punhado de habitantes sobretodo de latinoamerica se conocia que seguian existiendo. 
 
 SOLUCION: 
 
-Grandes fueron los esfuerzos a nivel mundial para poder descrifrar el codigo que hacia la introduccion del chip y la secuencia mutante, muchos murieron 
-tratando de conseguirla, hasta que un grupo de cientificos reunidos y refugiados en la otroras ruinas de muchi picchu lograron avanzar en una 
-red privada un codigo que descencripto el codigo malicioso de blackHenrynet el cual fue evaluado en un laboratorio clandestino con exito, logrando vacunar a
-las personas que aun estaba bajo la influencia de esta malvada IA.
+Grandes fueron los esfuerzos a nivel mundial para poder descrifrar el codigo que recibia al chip y la secuencia mutante, muchos murieron 
+tratando de conseguirla, hasta que un grupo de cientificos reunidos y refugiados en la otroras ruinas de machu picchu lograron avanzar en una 
+red privada un script que descencripto el codigo malicioso de blackHenrynet el cual fue evaluado en un laboratorio clandestino con exito, logrando vacunar a
+las personas vivas que aun estaba bajo la influencia de esta malvada IA, y se reunieron compartiendo el antidoto para destruir las redes y servidores 
+controlados por BlackHenryNet comandados por un convertido Dr. Flavio.
 
 
+CONCLUSION: 
 
-
-
-
-A su vez, socio de Fede, estaba Flavio Conde, un machine learning engineer quién replicó a HenryNet en una copia maligna Denominada 
-black-HenryNet que ha generado un programa que controla todas las camaras a nivel mundial para localizar a los humanos no infectados.
-
+Debemos tener en cuenta que la inteligencia artificial no son ni seran malas per-se, sino mas bien que pueden llegar a ser corrompidas por la maldad
+del ser humano, es por ello que debemos tomar medidas desde ahora para evitar que esto suceda en el futuro y asi vivir en paz y armonia por el bien comun.
 
 
 ######## Archivo de datos en formato CSV
@@ -67,32 +66,7 @@ AGTACGTTAGACAGTTAGCGATCGAATGATTAG
 Observación: La nueva secuencia de ADN incluye una mutación en el gen que controla la reproducción sexual, lo que resulta en la reproducción asexual a través de la saliva.
 
 
-########
 
-
-Muestra de programa creado por Black-HenryNet
-
-# Python code 
-
-import cv2
-import random
-
-def mock_camera_tracking():
-    cap = cv2.VideoCapture(0)
-    while True:
-        ret, frame = cap.read()
-        if ret:
-            fake_tracking_data = [random.randint(0, frame.shape[0]), random.randint(0, frame.shape[1])]
-            print("Mock tracking data:", fake_tracking_data)
-        if cv2.waitKey(1) & 0xFF == ord('q'):
-            break
-    cap.release()
-    cv2.destroyAllWindows()
-
-if __name__ == "__main__":
-    mock_camera_tracking()
-
-###############################################
 
 
 
