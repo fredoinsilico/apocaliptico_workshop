@@ -1,19 +1,15 @@
-En un mundo distopico donde no existen los países ni las banderas, sino que los seres humanos están liderados por los ILLUMINATI, 
-muchas empresas son globales, una de ellas es la Biotech Techonology, la cual maneja toda la data biológica de los seres vivos en sus servidores 
-entrenados por más de 20 años desde sus inicios postpandemia covid; Esta inteligencia artificial es conocida como HenryNEt
-que se impulsó en el mundo de la informática y ciencia de datos desde esos tiempos.
-Por ejmplo: Si una enfermedad viral se expandía, inmediantamente HenryNet aceleraba el procesamiento de datos para la creación de Vacunas polivalentes y 
-estrategias de acción para la no-expansión de la enfermedad.
+En un mundo distopico donde no existen los países ni las banderas, los seres humanos están liderados por los ILLUMINATI, humanos superdotados en tecnologia. 
+A su vez muchas empresas son globales, una de ellas es la Biotech Techonology, la cual maneja toda la data biológica de los seres vivos en sus servidores 
+entrenados por más de 20 años desde sus inicios postpandemia covid; Ya que en este mundo existen diversas enfermedades que necesitan de al menos 10 vacunas anuales.
+La inteligencia artificial creada por Biotech Techonology era conocida como HenryNEt la cual fue entrenada desde el 2020 y ayudaba a sobrevivir a la raza humana.
+Por ejmplo: Si una enfermedad viral se expandía, inmediantamente HenryNet aceleraba el procesamiento de datos para la creación de Vacunas polivalentes anexadas a chips de seguimiento o de destruccion del ciclo de vida de los virus.
 
-Pero no fue hasta que un grupo de cientificos misantropos denominados INFOMANIAKOS liderados por Federico Gomez y Flavio Conde, entrenaron de forma
-secreta un version maligna de HenryNet denominada black-HenryNet con consciencia y razonamiento para destruir a los seres humanos. 
+No obstante, no fue hasta que un grupo de cientificos misantropos denominados INFOMANIAKOS (una estirpe proveniente de los Illuminati) liderados por Federico Gomez y Flavio Conde, entrenaron de forma secreta un version maligna de HenryNet denominada black-HenryNet con consciencia y razonamiento para destruir a los seres humanos.
 
 Problematica:
  
-El primer hecho que genero BlackHenryNet fue generar vacunas con chips adheridos a una secuencia mutante (ATGATTAGGTGATAGAGTAAT) que generaban fallos a 
-nivel de la corteza frontal para someter a los seres humanos a voluntad de la IA debido a que reaccionaban a ciertas frecuencias de onda del chip 
-provocandoles pensamientos de suicidio que al final no podian controlar y asi sucedio por largos 5 anhos, incluso uno de sus creadores el DR. Gomez, 
-murio infectado. Muchos fallecieron y solo un punhado de habitantes sobretodo de latinoamerica se conocia que seguian existiendo. 
+El primer hecho que genero BlackHenryNet fue alterar el archivo de los datos de genes candidatos normalmente usados para las vacunas de ADN y asi incrustar chips adheridos a una secuencia mutante (ATGATTAGGTGATAGAGTAAT) que generaban fallos a nivel de la corteza cerebral en los seres humanos provocandoles pensamientos de suicidio que al final no podian controlar y asi sucedio por largos 5 años, incluso uno de sus creadores el DR. Gomez, 
+murio infectado. Muchos fallecieron y solo un puñado de habitantes se conocia seguian existiendo.
 
 SOLUCION: 
 
@@ -28,33 +24,6 @@ CONCLUSION:
 
 Debemos tener en cuenta que la inteligencia artificial no son ni seran malas per-se, sino mas bien que pueden llegar a ser corrompidas por la maldad
 del ser humano, es por ello que debemos tomar medidas desde ahora para evitar que esto suceda en el futuro y asi vivir en paz y armonia por el bien comun.
-
-
-######## Archivo de datos en formato CSV
-
-	WILD     				protein    				region3-5         MUTANT    
-gen1  AGTACGTTAGACAGTTAGCGATCGA     ldjsflksdjfkdjfksd		6537373'		AGTACGTTAGACAGTTAGCGATCGAATGATTAG
-gen2  AGTACGTTGTACAAGTTAGCGATCGA     SDFFDSFSDFSDFREE					AGTACGTTGTACAAGTTAGCGATCGAATGATTAG
-gen3  GGGGTTGAAGTTCATACATAATCT
-gen4
-gen5
-
-AGTC
-
-python 
-# 
-import pandas as pd
-archivo_mutante = read.csv("dfdksfdfd.csv")
-
-archivo_mutante[3:0] = apply.(__.ATGATTAG)
-delete.WILD
-
-Solucion es: 
-
-
-
-
-
 
 
 Secuencia de ADN de seres humanos antes de la mutación:
